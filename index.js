@@ -23,6 +23,7 @@ var unpipe = require('unpipe')
  */
 
 module.exports = getRawBody
+module.exports.default = getRawBody
 
 /**
  * Module variables.
